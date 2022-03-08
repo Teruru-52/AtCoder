@@ -1,4 +1,4 @@
-# ABC 242
+# [ABC 242](https://atcoder.jp/contests/abc242)
 ### A
 出力桁数
 ### B
